@@ -28,9 +28,11 @@ The highlands stretched endlessly.
               </div>
               <div className="border-t border-warm-slate pt-4 space-y-2">
                 <p className="text-warm-gray">The highlands stretched endlessly.</p>
-                <div className="bg-warm-slate h-32 rounded flex items-center justify-center text-warm-gray">
-                  [highlands.jpg]
-                </div>
+                <img
+                  src="/highlands.jpg"
+                  alt="Dramatic Iceland highlands landscape"
+                  className="w-full rounded"
+                />
               </div>
             </div>
           </div>
