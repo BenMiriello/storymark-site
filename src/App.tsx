@@ -10,7 +10,7 @@ import GetStarted from './components/GetStarted'
 
 function App() {
   return (
-    <div className="min-h-screen bg-white text-gray-900">
+    <div className="min-h-screen bg-warm-white text-warm-gray">
       <Hero />
       <WhatItIs />
       <HowItWorks />
